@@ -9,14 +9,14 @@ Bessemerstraße 82 <br/>
 12103 Berlin <br/>
 <br/>
 Registergericht:    Amtsgericht Charlottenburg <br/>
-Registernummer:     HRB 228709 B
+Registernummer:     HRB 228709 B  <br/>
 USt-IdNr:           DE343189825
 
 <h4>Vertreten durch</h4>
 Koal, Moritz Marius
   
 <h4>Kontakt</h4>
-Email:    info@ratatosk.app
+Email:    info@ratatosk.app  <br/>
 Twitter:  https://twitter.com/ratatosk_app
 
 <br />              
